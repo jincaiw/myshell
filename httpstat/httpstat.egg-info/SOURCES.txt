@@ -1,0 +1,8 @@
+README.md
+httpstat.py
+setup.py
+httpstat.egg-info/PKG-INFO
+httpstat.egg-info/SOURCES.txt
+httpstat.egg-info/dependency_links.txt
+httpstat.egg-info/entry_points.txt
+httpstat.egg-info/top_level.txt

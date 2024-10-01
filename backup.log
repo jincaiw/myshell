@@ -1,0 +1,304 @@
+2024-10-01 16:17:30,935 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-01 16:17:30,939 - INFO - Added job "backup" to job store "default"
+2024-10-01 16:17:30,939 - INFO - Scheduler started
+2024-10-01 16:17:30,940 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 16:17:31,026 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_161730
+2024-10-01 16:32:59,194 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-01 16:32:59,198 - INFO - Added job "backup" to job store "default"
+2024-10-01 16:32:59,198 - INFO - Scheduler started
+2024-10-01 16:32:59,198 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 16:32:59,199 - INFO - Scheduler state: 1
+2024-10-01 16:32:59,282 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163259
+2024-10-01 16:33:59,200 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:33:59 CST)" (scheduled at 2024-10-01 16:33:59.194082+08:00)
+2024-10-01 16:33:59,291 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163359
+2024-10-01 16:33:59,291 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:34:59 CST)" executed successfully
+2024-10-01 16:34:59,199 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:35:59 CST)" (scheduled at 2024-10-01 16:34:59.194082+08:00)
+2024-10-01 16:34:59,296 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163459
+2024-10-01 16:34:59,296 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:35:59 CST)" executed successfully
+2024-10-01 16:35:59,198 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:36:59 CST)" (scheduled at 2024-10-01 16:35:59.194082+08:00)
+2024-10-01 16:35:59,292 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163559
+2024-10-01 16:35:59,293 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:36:59 CST)" executed successfully
+2024-10-01 16:36:59,199 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:37:59 CST)" (scheduled at 2024-10-01 16:36:59.194082+08:00)
+2024-10-01 16:36:59,283 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163659
+2024-10-01 16:36:59,284 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:37:59 CST)" executed successfully
+2024-10-01 16:37:59,198 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:38:59 CST)" (scheduled at 2024-10-01 16:37:59.194082+08:00)
+2024-10-01 16:37:59,280 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163759
+2024-10-01 16:37:59,280 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:38:59 CST)" executed successfully
+2024-10-01 16:38:59,199 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:39:59 CST)" (scheduled at 2024-10-01 16:38:59.194082+08:00)
+2024-10-01 16:38:59,373 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_163859
+2024-10-01 16:38:59,373 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-10-01 16:39:59 CST)" executed successfully
+2024-10-01 16:43:11,865 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 16:43:11,865 - INFO - Scheduler state: 1
+2024-10-01 16:43:11,969 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_164311
+2024-10-01 16:49:34,974 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 16:49:34,974 - INFO - Scheduler state: 1
+2024-10-01 16:49:35,049 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_164934
+2024-10-01 16:55:30,504 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 16:55:30,505 - INFO - Scheduler state: 1
+2024-10-01 16:55:30,596 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_165530
+2024-10-01 16:56:30,616 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_165630
+2024-10-01 16:57:30,598 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_165730
+2024-10-01 16:58:30,550 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_165830
+2024-10-01 16:59:30,546 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_165930
+2024-10-01 17:00:30,546 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_170030
+2024-10-01 17:01:19,473 - INFO - 备份任务被用户中断。
+2024-10-01 17:06:03,866 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 17:06:03,866 - INFO - Scheduler state: 1
+2024-10-01 17:06:03,919 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_170603
+2024-10-01 17:07:03,961 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_170703
+2024-10-01 17:07:27,041 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup。
+2024-10-01 17:07:27,041 - INFO - Scheduler state: 1
+2024-10-01 17:07:27,044 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_170727
+2024-10-01 17:08:04,032 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_170803
+2024-10-01 17:08:27,047 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_170827
+2024-10-01 17:09:03,953 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_170903
+2024-10-01 17:09:27,043 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_170927
+2024-10-01 17:10:03,961 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171003
+2024-10-01 17:10:27,048 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171027
+2024-10-01 17:11:03,940 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171103
+2024-10-01 17:11:27,051 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171127
+2024-10-01 17:12:03,956 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171203
+2024-10-01 17:12:27,046 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171227
+2024-10-01 17:13:03,961 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171303
+2024-10-01 17:13:27,045 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171327
+2024-10-01 17:14:03,966 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171403
+2024-10-01 17:14:27,047 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171427
+2024-10-01 17:15:03,969 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171503
+2024-10-01 17:15:27,048 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171527
+2024-10-01 17:15:43,512 - INFO - 备份任务被用户中断。
+2024-10-01 17:16:18,058 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup。
+2024-10-01 17:16:18,060 - INFO - Scheduler state: 1
+2024-10-01 17:16:19,084 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171618.zip
+2024-10-01 17:16:27,043 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup_20241001_171627
+2024-10-01 17:16:49,904 - INFO - 备份任务被用户中断。
+2024-10-01 17:17:18,829 - INFO - 备份任务已安排，每 1 分钟备份 /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup。
+2024-10-01 17:17:18,829 - INFO - Scheduler state: 1
+2024-10-01 17:17:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_171718
+2024-10-01 17:17:19,010 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171718.zip
+2024-10-01 17:18:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_171818
+2024-10-01 17:18:18,939 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171818.zip
+2024-10-01 17:19:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_171918
+2024-10-01 17:19:18,991 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_171918.zip
+2024-10-01 17:20:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172018
+2024-10-01 17:20:19,011 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172018.zip
+2024-10-01 17:21:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172118
+2024-10-01 17:21:19,013 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172118.zip
+2024-10-01 17:22:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172218
+2024-10-01 17:22:19,169 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172218.zip
+2024-10-01 17:23:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172318
+2024-10-01 17:23:19,120 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172318.zip
+2024-10-01 17:24:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172418
+2024-10-01 17:24:19,248 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172418.zip
+2024-10-01 17:25:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172518
+2024-10-01 17:25:19,330 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172518.zip
+2024-10-01 17:26:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172618
+2024-10-01 17:26:18,946 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172618.zip
+2024-10-01 17:27:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172718
+2024-10-01 17:27:19,660 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172718.zip
+2024-10-01 17:28:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172818
+2024-10-01 17:28:19,151 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172818.zip
+2024-10-01 17:29:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_172918
+2024-10-01 17:29:19,053 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_172918.zip
+2024-10-01 17:30:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173018
+2024-10-01 17:30:19,235 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173018.zip
+2024-10-01 17:31:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173118
+2024-10-01 17:31:19,082 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173118.zip
+2024-10-01 17:32:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173218
+2024-10-01 17:32:19,245 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173218.zip
+2024-10-01 17:33:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173318
+2024-10-01 17:33:19,094 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173318.zip
+2024-10-01 17:34:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173418
+2024-10-01 17:34:19,184 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173418.zip
+2024-10-01 17:35:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173518
+2024-10-01 17:35:19,097 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173518.zip
+2024-10-01 17:36:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173618
+2024-10-01 17:36:19,050 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173618.zip
+2024-10-01 17:37:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173718
+2024-10-01 17:37:19,056 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173718.zip
+2024-10-01 17:38:18,846 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173818
+2024-10-01 17:38:19,571 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173818.zip
+2024-10-01 17:39:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_173918
+2024-10-01 17:39:19,256 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_173918.zip
+2024-10-01 17:40:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174018
+2024-10-01 17:40:19,290 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_174018.zip
+2024-10-01 17:41:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174118
+2024-10-01 17:41:19,110 - INFO - 已备份目录: /Users/wang/Downloads/docs-pdf 到 /Users/wang/Downloads/bakup/docs-pdf_20241001_174118.zip
+2024-10-01 17:42:04,787 - INFO - 备份任务被用户中断。
+2024-10-01 17:42:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174218
+2024-10-01 17:43:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174318
+2024-10-01 17:44:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174418
+2024-10-01 17:45:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174518
+2024-10-01 17:46:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174618
+2024-10-01 17:47:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174718
+2024-10-01 17:48:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174818
+2024-10-01 17:49:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_174918
+2024-10-01 17:50:18,840 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175018
+2024-10-01 17:51:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175118
+2024-10-01 17:52:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175218
+2024-10-01 17:53:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175318
+2024-10-01 17:54:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175418
+2024-10-01 17:55:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175518
+2024-10-01 17:56:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175618
+2024-10-01 17:57:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175718
+2024-10-01 17:58:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175818
+2024-10-01 17:59:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_175918
+2024-10-01 18:00:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180018
+2024-10-01 18:01:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180118
+2024-10-01 18:02:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180218
+2024-10-01 18:03:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180318
+2024-10-01 18:04:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180418
+2024-10-01 18:05:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180518
+2024-10-01 18:06:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180618
+2024-10-01 18:07:18,846 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180718
+2024-10-01 18:08:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180818
+2024-10-01 18:09:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_180918
+2024-10-01 18:10:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181018
+2024-10-01 18:11:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181118
+2024-10-01 18:12:18,848 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181218
+2024-10-01 18:13:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181318
+2024-10-01 18:14:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181418
+2024-10-01 18:15:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181518
+2024-10-01 18:16:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181618
+2024-10-01 18:17:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181718
+2024-10-01 18:18:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181818
+2024-10-01 18:19:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_181918
+2024-10-01 18:20:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182018
+2024-10-01 18:21:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182118
+2024-10-01 18:22:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182218
+2024-10-01 18:23:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182318
+2024-10-01 18:24:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182418
+2024-10-01 18:25:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182518
+2024-10-01 18:26:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182618
+2024-10-01 18:27:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182718
+2024-10-01 18:28:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182818
+2024-10-01 18:29:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_182918
+2024-10-01 18:30:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183018
+2024-10-01 18:31:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183118
+2024-10-01 18:32:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183218
+2024-10-01 18:33:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183318
+2024-10-01 18:34:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183418
+2024-10-01 18:35:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183518
+2024-10-01 18:36:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183618
+2024-10-01 18:37:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183718
+2024-10-01 18:38:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183818
+2024-10-01 18:39:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_183918
+2024-10-01 18:40:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184018
+2024-10-01 18:41:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184118
+2024-10-01 18:42:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184218
+2024-10-01 18:43:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184318
+2024-10-01 18:44:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184418
+2024-10-01 18:45:18,829 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184518
+2024-10-01 18:46:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184618
+2024-10-01 18:47:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184718
+2024-10-01 18:48:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184818
+2024-10-01 18:49:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_184918
+2024-10-01 18:50:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185018
+2024-10-01 18:51:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185118
+2024-10-01 18:52:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185218
+2024-10-01 18:53:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185318
+2024-10-01 18:54:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185418
+2024-10-01 18:55:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185518
+2024-10-01 18:56:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185618
+2024-10-01 18:57:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185718
+2024-10-01 18:58:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185818
+2024-10-01 18:59:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_185918
+2024-10-01 19:00:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190018
+2024-10-01 19:01:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190118
+2024-10-01 19:02:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190218
+2024-10-01 19:03:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190318
+2024-10-01 19:04:18,844 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190418
+2024-10-01 19:05:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190518
+2024-10-01 19:06:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190618
+2024-10-01 19:07:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190718
+2024-10-01 19:08:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190818
+2024-10-01 19:09:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_190918
+2024-10-01 19:10:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191018
+2024-10-01 19:11:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191118
+2024-10-01 19:12:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191218
+2024-10-01 19:13:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191318
+2024-10-01 19:14:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191418
+2024-10-01 19:15:18,839 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191518
+2024-10-01 19:16:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_191618
+2024-10-01 19:47:18,839 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_194718
+2024-10-01 20:04:19,404 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_200419
+2024-10-01 20:05:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_200518
+2024-10-01 20:22:18,840 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_202218
+2024-10-01 20:39:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_203918
+2024-10-01 20:40:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_204018
+2024-10-01 20:57:18,845 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_205718
+2024-10-01 20:58:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_205818
+2024-10-01 20:59:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_205918
+2024-10-01 21:00:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_210018
+2024-10-01 21:08:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_210818
+2024-10-01 21:14:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_211418
+2024-10-01 21:32:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_213218
+2024-10-01 21:51:18,840 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_215118
+2024-10-01 21:52:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_215218
+2024-10-01 21:53:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_215318
+2024-10-01 21:54:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_215418
+2024-10-01 22:11:18,842 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221118
+2024-10-01 22:12:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221218
+2024-10-01 22:14:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221418
+2024-10-01 22:15:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221518
+2024-10-01 22:16:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221618
+2024-10-01 22:17:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221718
+2024-10-01 22:18:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221818
+2024-10-01 22:19:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_221918
+2024-10-01 22:20:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222018
+2024-10-01 22:21:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222118
+2024-10-01 22:22:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222218
+2024-10-01 22:23:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222318
+2024-10-01 22:24:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222418
+2024-10-01 22:25:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222518
+2024-10-01 22:26:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222618
+2024-10-01 22:27:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222718
+2024-10-01 22:28:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222818
+2024-10-01 22:29:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_222918
+2024-10-01 22:30:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223018
+2024-10-01 22:31:18,838 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223118
+2024-10-01 22:32:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223218
+2024-10-01 22:33:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223318
+2024-10-01 22:34:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223418
+2024-10-01 22:35:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223518
+2024-10-01 22:36:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223618
+2024-10-01 22:37:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223718
+2024-10-01 22:38:18,836 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223818
+2024-10-01 22:39:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_223918
+2024-10-01 22:40:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224018
+2024-10-01 22:41:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224118
+2024-10-01 22:42:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224218
+2024-10-01 22:43:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224318
+2024-10-01 22:44:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224418
+2024-10-01 22:45:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224518
+2024-10-01 22:46:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224618
+2024-10-01 22:47:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224718
+2024-10-01 22:48:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224818
+2024-10-01 22:49:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_224918
+2024-10-01 22:50:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225018
+2024-10-01 22:51:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225118
+2024-10-01 22:52:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225218
+2024-10-01 22:53:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225318
+2024-10-01 22:54:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225418
+2024-10-01 22:55:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225518
+2024-10-01 22:56:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225618
+2024-10-01 22:57:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225718
+2024-10-01 22:58:18,828 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225818
+2024-10-01 22:59:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_225918
+2024-10-01 23:00:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230018
+2024-10-01 23:01:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230118
+2024-10-01 23:02:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230218
+2024-10-01 23:03:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230318
+2024-10-01 23:04:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230418
+2024-10-01 23:05:18,837 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230518
+2024-10-01 23:06:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230618
+2024-10-01 23:07:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230718
+2024-10-01 23:08:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230818
+2024-10-01 23:09:18,830 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_230918
+2024-10-01 23:10:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231018
+2024-10-01 23:11:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231118
+2024-10-01 23:12:18,835 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231218
+2024-10-01 23:13:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231318
+2024-10-01 23:14:18,834 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231418
+2024-10-01 23:15:18,833 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231518
+2024-10-01 23:16:18,831 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231618
+2024-10-01 23:17:18,832 - INFO - 已备份文件: /Users/wang/Downloads/it-tools/README.md 到 /Users/wang/Downloads/bakup/README.md_20241001_231718

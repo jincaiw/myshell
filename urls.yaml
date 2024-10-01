@@ -1,0 +1,21 @@
+groups:
+  - name: "生产环境"
+    sites:
+      - name: "示例网站"
+        url: "http://www.baidu.com"
+      - name: "另一个生产网站"
+        url: "https://www.cib.com.cn"
+  
+  - name: "测试环境"
+    sites:
+      - name: "测试网站1"
+        url: "https://www.taobao.com"
+      - name: "测试网站2"
+        url: "https://v.qq.com"
+  
+  - name: "区域性网站"
+    sites:
+      - name: "亚洲网站"
+        url: "https://www.sohu.com"
+      - name: "欧洲网站"
+        url: "http://europe.example.com"

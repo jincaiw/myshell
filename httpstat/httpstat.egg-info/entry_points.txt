@@ -1,0 +1,3 @@
+[console_scripts]
+httpstat = httpstat:main
+
